@@ -1,7 +1,6 @@
 package review2.sakitamako.com.github;
 
 public class ColorChart {
-	
 	public String color = null;
 	public int level = 0;
 	public String length = null;
